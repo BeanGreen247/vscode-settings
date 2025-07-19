@@ -1,0 +1,73 @@
+{
+  "_credit": "Settings customized by BeanGreen247",
+  "remote.SSH.remotePlatform": {
+    "x.x.x.x": "linux"
+  },
+  "workbench.colorTheme": "GitHub Dark Default",
+  "workbench.sideBar.location": "right",
+  "workbench.statusBar.visible": false,
+  "breadcrumbs.enabled": false,
+  "workbench.startupEditor": "none",
+  "git.enableSmartCommit": true,
+  "search.maxResults": 2000,
+  "simpleBrowser.focusLockIndicator.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.codeLens": false,
+  "editor.bracketPairColorization.enabled": false,
+  "editor.semanticHighlighting.enabled": false,
+  "editor.smoothScrolling": false,
+  "terminal.integrated.gpuAcceleration": "on",
+  "workbench.reduceMotion": "on",
+  "files.exclude": {
+    "**/.git": true,
+    "**/node_modules": true,
+    "**/vendor": true,
+    "**/dist": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/vendor": true,
+    "**/dist": true
+  },
+  "files.watcherExclude": {
+    "**/node_modules/**": true,
+    "**/vendor/**": true,
+    "**/dist/**": true
+  },
+  "window.autoDetectHighContrast": false,
+  "remote.SSH.useLocalServer": false,
+  "remote.SSH.showLoginTerminal": true,
+  "workbench.editorLargeFileConfirmation": 1024,
+  "workbench.activityBar.visible": false,
+  "workbench.editor.showTabs": true,
+  "workbench.editor.showEditorActions": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.tips.enabled": false,
+  "workbench.enableExperiments": false,
+  "workbench.enableWelcomePage": false,
+  "workbench.experimental.useRipgrepSearch": true,
+  "workbench.experimental.editor.enablePreviewFromQuickOpen": false,
+  "window.showAccounts": "off",
+  "window.menuBarVisibility": "toggle",
+  "window.titleBarStyle": "custom",
+  "github.copilot.enable": false,
+  "github.copilot.advanced": {
+    "inlineSuggestCount": 0
+  },
+  "eslint.enable": false,
+  "stylelint.enable": false,
+  "python.linting.enabled": false,
+  "pylint.enabled": false,
+  "eslint.validate": [],
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "search.quickOpen.includeSymbols": false,
+  "typescript.disableAutomaticTypeAcquisition": true,
+  "extensions.ignoreRecommendations": true,
+  "update.mode": "manual",
+  "telemetry.telemetryLevel": "off",
+  "search.useIgnoreFiles": true,
+  "files.maxMemoryForLargeFilesMB": 8192,
+  "extensions.autoUpdate": false,
+  "extensions.autoCheckUpdates": false
+}
