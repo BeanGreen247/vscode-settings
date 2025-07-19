@@ -36,6 +36,14 @@ Copy-Item -Path "C:\path\to\vscode-settings\settings.json" -Destination "$env:AP
 
 4. Restart VS Code to apply changes.
 
+5. Launch parameters
+```
+ --max-old-space-size=8192 --enable-gpu --enable-gpu-rasterization --disable-software-rasterizer --ignore-gpu-blacklist
+```  
+- **Example usage**
+```
+ "C:\Program Files\Microsoft VS Code\Code.exe" --max-old-space-size=8192 --enable-gpu --enable-gpu-rasterization --disable-software-rasterizer --ignore-gpu-blacklist
+```
 ---
 
 ## Notes
