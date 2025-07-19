@@ -4,7 +4,6 @@
     "x.x.x.x": "linux"
   },
   "workbench.colorTheme": "GitHub Dark Default",
-  "workbench.sideBar.location": "right",
   "workbench.statusBar.visible": false,
   "breadcrumbs.enabled": false,
   "workbench.startupEditor": "none",
@@ -38,8 +37,7 @@
   "remote.SSH.useLocalServer": false,
   "remote.SSH.showLoginTerminal": true,
   "workbench.editorLargeFileConfirmation": 1024,
-  "workbench.activityBar.visible": false,
-  "workbench.editor.showTabs": true,
+  "workbench.editor.showTabs": "multiple",
   "workbench.editor.showEditorActions": false,
   "workbench.editor.enablePreview": false,
   "workbench.tips.enabled": false,
@@ -69,5 +67,7 @@
   "search.useIgnoreFiles": true,
   "files.maxMemoryForLargeFilesMB": 8192,
   "extensions.autoUpdate": false,
-  "extensions.autoCheckUpdates": false
+  "extensions.autoCheckUpdates": false,
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.location": "top"
 }
