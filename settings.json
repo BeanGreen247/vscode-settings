@@ -1,8 +1,6 @@
 {
   "_credit": "Settings customized by BeanGreen247",
   "remote.SSH.remotePlatform": {
-    "192.168.191.20": "linux",
-    "myserver": "linux",
     "dev-server": "linux"
   },
   "workbench.colorTheme": "GitHub Dark Default",
