@@ -1,6 +1,8 @@
 {
   "_credit": "Settings customized by BeanGreen247",
   "remote.SSH.remotePlatform": {
+    "192.168.191.20": "linux",
+    "myserver": "linux",
     "dev-server": "linux"
   },
   "workbench.colorTheme": "GitHub Dark Default",
@@ -47,7 +49,6 @@
   "workbench.experimental.editor.enablePreviewFromQuickOpen": false,
   "window.showAccounts": "off",
   "window.menuBarVisibility": "compact",
-  "window.titleBarStyle": "custom",
   "github.copilot.enable": false,
   "github.copilot.advanced": {
     "inlineSuggestCount": 0
