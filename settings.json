@@ -34,7 +34,7 @@
     "**/dist/**": true
   },
   "window.autoDetectHighContrast": false,
-  "remote.SSH.useLocalServer": false,
+  "remote.SSH.useLocalServer": true,
   "remote.SSH.showLoginTerminal": true,
   "workbench.editorLargeFileConfirmation": 1024,
   "workbench.editor.showTabs": "multiple",
@@ -110,5 +110,20 @@
   "C_Cpp.errorSquiggles": "disabled",
   "typescript.tsserver.web.projectWideIntellisense.enabled": false,
   "typescript.disableAutomaticTypeAcquisition": true,
-  "C_Cpp.enhancedColorization": "disabled"
+  "C_Cpp.enhancedColorization": "disabled",
+  "window.titleBarStyle": "native",
+  "outline.showVariables": false,
+  "outline.showFunctions": false,
+  "outline.showConstants": false,
+  "outline.showEnums": false,
+  "outline.showProperties": false,
+  "outline.showMethods": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.hover.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  }
 }
