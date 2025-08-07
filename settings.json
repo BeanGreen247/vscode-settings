@@ -51,6 +51,9 @@
   "github.copilot.advanced": {
     "inlineSuggestCount": 0
   },
+  "extensions.unwantedRecommendations": [
+    "GitHub.copilot"
+  ],
   "eslint.enable": false,
   "stylelint.enable": false,
   "python.linting.enabled": false,
